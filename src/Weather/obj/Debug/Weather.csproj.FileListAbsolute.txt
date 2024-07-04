@@ -1,0 +1,14 @@
+D:\Users\stu-ipsp121\Desktop\Morozova_exam\Weather\obj\Debug\Weather.csprojAssemblyReference.cache
+D:\Users\stu-ipsp121\Desktop\Morozova_exam\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+D:\Users\stu-ipsp121\Desktop\Morozova_exam\Weather\bin\Debug\Weather.exe.config
+D:\Users\stu-ipsp121\Desktop\Morozova_exam\Weather\bin\Debug\Weather.exe
+D:\Users\stu-ipsp121\Desktop\Morozova_exam\Weather\bin\Debug\Weather.pdb
+D:\Users\stu-ipsp121\Desktop\Morozova_exam\Weather\obj\Debug\Weather.exe
+D:\Users\stu-ipsp121\Desktop\Morozova_exam\Weather\obj\Debug\Weather.pdb
+D:\Users\stu-ipsp121\Desktop\src\Weather\bin\Debug\Weather.exe.config
+D:\Users\stu-ipsp121\Desktop\src\Weather\bin\Debug\Weather.exe
+D:\Users\stu-ipsp121\Desktop\src\Weather\bin\Debug\Weather.pdb
+D:\Users\stu-ipsp121\Desktop\src\Weather\obj\Debug\Weather.csprojAssemblyReference.cache
+D:\Users\stu-ipsp121\Desktop\src\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+D:\Users\stu-ipsp121\Desktop\src\Weather\obj\Debug\Weather.exe
+D:\Users\stu-ipsp121\Desktop\src\Weather\obj\Debug\Weather.pdb
